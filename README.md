@@ -22,6 +22,7 @@ Make_Tab_Files_BatPower.py
     - Energy balance
  - Solver
  - Write the optimal value
-Results_BatPower.py
+ 
+  Results_BatPower.py
  - Collect the variables and parameters from the solved problem in “ BatPower.py” and transport them into a excel file
 
