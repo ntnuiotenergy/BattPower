@@ -4,10 +4,11 @@ Install package
   -	Matplotlib
   -	Pandas
 
-Make¬_Tab_Files_BatPower.py
+Make_Tab_Files_BatPower.py
   -	Convert parameter data in excel to tab-files
-BatPower.py
- Create
+  
+  BatPower.py
+  - Create
  -  indexes
  -  Sets
  -  Scalars
